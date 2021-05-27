@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### My name's Gabriel, I'm from Uberlândia in Brazil, I work and study to be a developer.
 <!--
 **AnAutumnLeaf/AnAutumnLeaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
