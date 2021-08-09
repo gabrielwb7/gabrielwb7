@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel Rocha  
+## Hi, I'm Gabriel Rocha ✌🏻 
 ## I'm from Uberlândia in Brazil, I work and study to be a developer.
 
 <div>
