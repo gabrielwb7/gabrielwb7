@@ -20,6 +20,7 @@
 <div> 
   <a href = "mailto:contate.gabrielr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-r-0043861ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://medium.com/@gabrielwb7" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/anautumnleaf/anautumnleaf/blob/output/github-contribution-grid-snake.svg)
  
