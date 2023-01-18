@@ -1,10 +1,10 @@
 ## Hi, I'm Gabriel Rocha ✌🏻 
 ## I'm from Uberlândia in Brazil, I work and study to be a developer.
 
-<div>
+<!-- <div>
   <a href= "https://github.com/gabrielwb7">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielwb7&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div> -->
 
 <div style="display: inline_block"><br>
 
