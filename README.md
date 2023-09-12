@@ -1,17 +1,28 @@
-<h1 align="center">Hi 👋🏻, I'm Gabriel</h1>
-<h2 align="center">A curious backend developer from Brazil</h3>
+## Olá! Tranquilo? :bowtie:
 
+Meu nome é Gabriel, fã de RPG e atualmente atuo como desenvolvedor backend Java. 
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="38" height="38"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="38" height="38"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/> </a></p>
+Estou em busca de aprender coisas novas que me permita causar alguma mudança na vida. :dart:
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielwb7&show_icons=true&locale=en" alt="gabrielwb7" /></p>
+### :books: Abaixo está as tecnologias que uso no meu dia a dia e outras que possuo conhecimento.
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielwb7&show_icons=true&locale=en&layout=compact" alt="gabrielwb7" /></p>
+![icon](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![icon](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![icon](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![icon](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![icon](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![icon](https://img.shields.io/badge/spring%20boot-6DB33F?style=for-the-badge&logo=spring%20boot&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/gabriel-r-0043861ba/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://medium.com/@gabrielwb7" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
-</p>
+![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielwb7&theme=algolia&show_icons=true)
+![Gab's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielwb7&theme=algolia&show_icons=true&layout=compact)
 
+### :telescope: Para entrar em contato:
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-r-0043861ba/)](https://www.linkedin.com/in/gabriel-r-0043861ba/)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:contate.gabrielr@gmail.com)](mailto:contate.gabrielr@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@gabrielwb7)](https://medium.com/@gabrielwb7)
