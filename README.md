@@ -2,7 +2,7 @@
 
 Meu nome é Gabriel, fã de RPG e atualmente atuo como desenvolvedor backend Java. 
 
-Estou em busca de aprender coisas novas que me permita causar alguma mudança na vida. :dart:
+Estou em busca de aprender coisas novas que me permita causar alguma mudança na vida das pessoas. :dart:
 
 ### :books: Abaixo está as tecnologias que uso no meu dia a dia e outras que possuo conhecimento.
 
