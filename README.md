@@ -22,5 +22,4 @@ Estou em busca de aprender coisas novas que me permita causar alguma mudança na
 ### :telescope: Para entrar em contato:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-r-0043861ba/)](https://www.linkedin.com/in/gabriel-r-0043861ba/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@gabrielwb7)](https://medium.com/@gabrielwb7)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white&link=https://www.credly.com/users/gabriel-rocha.7069bf0a)](https://www.credly.com/users/gabriel-rocha.7069bf0a)
