@@ -19,7 +19,7 @@ Estou em busca de aprender coisas novas que me permita causar alguma mudança na
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielwb7&theme=algolia&show_icons=true)
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=gabrielwb7&theme=algolia&show_icons=true&layout=compact)
 
-### :telescope: Para entrar em contato:
+### :telescope: Para mais informações:
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-r-0043861ba/)](https://www.linkedin.com/in/gabriel-r-0043861ba/)
 [![Credly](https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white&link=https://www.credly.com/users/gabriel-rocha.7069bf0a)](https://www.credly.com/users/gabriel-rocha.7069bf0a)
